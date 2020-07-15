@@ -3,7 +3,7 @@
 //  BMI Calculator
 //
 //  Created by Danish Khalid on 4/12/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
+//  Copyright © 2020 Danish Khalid. All rights reserved.
 //
 
 import UIKit
